@@ -1,0 +1,18 @@
+﻿vaccine_id,vaccine_name,manufacturer
+V001,Abdala,CIGB (Center for Genetic Engineering and Biotechnology)
+V002,BBIBP-CorV,Sinopharm / Beijing Institute of Biological Products
+V003,CanSino,CanSino Biologics
+V004,Covaxin,Bharat Biotech
+V005,EpiVacCorona,Vector State Research Center of Virology and Biotechnology
+V006,Johnson&Johnson,Janssen / Johnson & Johnson
+V007,Moderna,Moderna
+V008,Oxford/AstraZeneca,Oxford–AstraZeneca
+V009,Pfizer/BioNTech,Pfizer–BioNTech
+V010,QazVac,Research Institute for Biological Safety Problems
+V011,RBD-Dimer,Anhui Zhifei Longcom / Chinese Academy of Sciences
+V012,Sinopharm/Beijing,Sinopharm / Beijing Institute of Biological Products
+V013,Sinopharm/HayatVax,Sinopharm / Hayat Biotech
+V014,Sinopharm/Wuhan,Sinopharm / Wuhan Institute of Biological Products
+V015,Sinovac,Sinovac
+V016,Soberana02,Finlay Institute of Vaccines
+V017,Sputnik V,Gamaleya Research Institute

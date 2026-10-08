@@ -11,7 +11,7 @@ Repository này lưu trữ quy trình xử lý dữ liệu chuỗi thời gian (
 * **Dashboard tương tác:** Cung cấp góc nhìn trực quan về sự phân bổ và tiến độ tiêm chủng trên toàn thế giới.
 
 ## Công nghệ & Công cụ
-* **Xử lý & Phân tích dữ liệu:** Python, R
+* **Xử lý & Phân tích dữ liệu:** Python, Jupyter Notebook
 * **Trực quan hóa:** Tableau / Plotly
 
 ## Hướng dẫn sử dụng
@@ -20,5 +20,5 @@ Repository này lưu trữ quy trình xử lý dữ liệu chuỗi thời gian (
    git clone <repository-url>
    cd covid19-vaccination-progress-viz
    ```
-2. Chạy kịch bản xử lý dữ liệu: Thực thi các script tiền xử lý để tạo tập dữ liệu sạch.
-3. Xem trực quan hóa: Mở file báo cáo/dashboard hoặc chạy script hiển thị biểu đồ tương ứng.
+2. **Chạy kịch bản xử lý dữ liệu:** Thực thi các script tiền xử lý để tạo tập dữ liệu sạch.
+3. **Xem trực quan hóa:** Mở file báo cáo/dashboard hoặc chạy script hiển thị biểu đồ tương ứng.
